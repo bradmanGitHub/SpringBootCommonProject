@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: first-springboot-projectt
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mongkonchai.k
+Implementation-Vendor-Id: com.in28minutes.springboot
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/first-springboot-projectt
+Created-By: Maven Integration for Eclipse
+
